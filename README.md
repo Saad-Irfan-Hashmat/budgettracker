@@ -34,11 +34,6 @@ expense.mdf
 
 #How to Run:
 
-Open Budgettracker.sln
+Open Debug folder
 
-Restore NuGet packages
-
-Build Solution
-
-
-Run project
+Run Budgettracker.exe
